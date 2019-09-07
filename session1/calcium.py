@@ -1,1 +1,0 @@
-print("alkali metal")
